@@ -56,4 +56,4 @@ Native implementation for Apple platforms and Linux (GNUStep). Shared core logic
 
 ## License
 
-See the respective repository for details.
+AGPL-3.0 license.
