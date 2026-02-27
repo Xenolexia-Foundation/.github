@@ -56,4 +56,4 @@ Native implementation for Apple platforms and Linux (GNUStep). Shared core logic
 
 ## License
 
-Each implementation has its own license (typically MIT). See the respective repository for details.
+See the respective repository for details.
