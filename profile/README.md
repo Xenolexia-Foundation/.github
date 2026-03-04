@@ -26,8 +26,8 @@ Xenolexia is implemented in three separate codebases, each targeting different p
 | Implementation | Languages | Platforms |
 |----------------|-----------|-----------|
 | [**xenolexia-typescript**](https://github.com/Xenolexia-Foundation/xenolexia-typescript) | TypeScript | **Desktop** (Electron): Windows, macOS, Linux • **Mobile** (React Native): iOS, Android |
-| ~~[**xenolexia-csharp**](https://github.com/Xenolexia-Foundation/xenolexia-csharp) | C# / .NET | **Desktop** (Avalonia): Windows, macOS, Linux~~ **abandoned** |
-| ~~[**xenolexia-objc**](https://github.com/Xenolexia-Foundation/xenolexia-objc) | Objective-C | **macOS** (AppKit) • **iOS** (UIKit) • **Linux** (GNUStep)~~ **abandoned** |
+| ~~[**xenolexia-csharp**](https://github.com/Xenolexia-Foundation/xenolexia-csharp)~~ | C# / .NET | ~~**Desktop** (Avalonia): Windows, macOS, Linux~~ **abandoned** |
+| ~~[**xenolexia-objc**](https://github.com/Xenolexia-Foundation/xenolexia-objc)~~ | Objective-C | ~~**macOS** (AppKit) • **iOS** (UIKit) • **Linux** (GNUStep)~~ **abandoned** |
 
 ### xenolexia-typescript
 
