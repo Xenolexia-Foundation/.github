@@ -33,13 +33,13 @@ Xenolexia is implemented in three separate codebases, each targeting different p
 
 Monorepo with a shared TypeScript core (`ts-shared-core`), an Electron desktop app, and a React Native mobile app. Supports EPUB, TXT, MOBI; 28+ language pairs; spaced repetition (SM-2); vocabulary export (CSV, Anki, JSON).
 
-### xenolexia-csharp
+### ~~xenolexia-csharp~~
 
-Cross-platform desktop app built with Avalonia UI and .NET. Single codebase for Linux, macOS, and Windows. Uses FOSS libraries only (VersOne.Epub, PdfPig, Fb2.Document). Supports EPUB, PDF, TXT, FB2; LibreTranslate; offline dictionary cache.
+~~Cross-platform desktop app built with Avalonia UI and .NET. Single codebase for Linux, macOS, and Windows. Uses FOSS libraries only (VersOne.Epub, PdfPig, Fb2.Document). Supports EPUB, PDF, TXT, FB2; LibreTranslate; offline dictionary cache.~~
 
-### xenolexia-objc
+### ~~xenolexia-objc~~
 
-Native implementation for Apple platforms and Linux (GNUStep). Shared core logic with platform-specific UI. Targets macOS, iOS, and GNUStep-based Linux desktops.
+~~Native implementation for Apple platforms and Linux (GNUStep). Shared core logic with platform-specific UI. Targets macOS, iOS, and GNUStep-based Linux desktops.~~
 
 ---
 
