@@ -21,7 +21,7 @@ The **Xenolexia Foundation** is a non-profit organization that manages the Xenol
 
 ## Implementations
 
-Xenolexia is implemented in three separate codebases, each targeting different platforms and ecosystems:
+Xenolexia is implemented in three separate codebases, each targeting different platforms and ecosystems. **xenolexia-typescript** is the current active development implementation.
 
 | Implementation | Languages | Platforms |
 |----------------|-----------|-----------|
@@ -32,6 +32,8 @@ Xenolexia is implemented in three separate codebases, each targeting different p
 ### xenolexia-typescript
 
 Monorepo with a shared TypeScript core (`ts-shared-core`), an Electron desktop app, and a React Native mobile app. Supports EPUB, TXT, MOBI; 28+ language pairs; spaced repetition (SM-2); vocabulary export (CSV, Anki, JSON).
+
+**[Xenolexia-RPG](https://github.com/Xenolexia-Foundation/Xenolexia-RPG)** is a language learning RPG that builds on `xenolexia-typescript/ts-shared-core`, reusing the translation engine, vocabulary management, and language learning logic.
 
 ### ~~xenolexia-csharp~~
 
